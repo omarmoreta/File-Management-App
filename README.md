@@ -1,2 +1,2 @@
 # File-Management-App
-A reactjs and firebase file management app.
+A reactjs file management app.
